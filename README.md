@@ -4,13 +4,13 @@ Du skal åbne den fra en terminal eller kommando linje med: "java -jar (stien ti
 
 Herefter, kan du åbne "localhost:8080" og se den kørende app.
 
-God fornøjelse
+> OBS - sql filen er kun til fremvisning, der er indlagt creation af tables i opstarten af den embedded TomCat server der ligger i Jar Filen.
 
 ## Projekt mappen
 Projektet er skrevet i IntelliJ IDEA, som et gradle projektet, for at få automatisk hentet alle 'dependencies' til bootRun og Hibernate databasen.
 
 Det er også muligt at bruge netbeans, det kræver man installerer et gradle plugin inden.
-Det kan man finde her: http://plugins.netbeans.org/plugin/44510/gradle-support 
+Det kan man finde her: [Netbean's Site | Gradle Plugin](http://plugins.netbeans.org/plugin/44510/gradle-support)
 
 ## NB
 sql fil til at bygge SQL tabeller er vedhæftet
