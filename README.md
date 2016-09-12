@@ -1,7 +1,8 @@
 ## Diagram og markup
 Vi har Jens Egeberg og Jonas Schelde dannet os overblikket over den tildelte historie, og har ud fra det lavet
 * Domain Model 1
-* Design WireFrames 
+* Design WireFrames
+[Draw Diagram](https://www.draw.io/?chrome=0&lightbox=1&nav=1#G0B05IzH4qFSxSTGVUQzhEMnQtd00)
 
 ## Cup Cake Webshop
 For at starte selve applikationen, er selve projektet pakket med en server, en database og alle filer knytter sammen der, i filen "webshop-ready-to-run"
